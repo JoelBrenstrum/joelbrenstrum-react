@@ -1,7 +1,7 @@
 {
   "name": "joelbrenstrum-react",
   "version": "0.1.0",
-  "homepage": "https://joel.brenstrum.com/react",
+  "homepage": "https://joel.brenstrum.com/reaction",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
