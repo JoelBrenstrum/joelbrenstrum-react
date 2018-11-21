@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import face from './content/face.jpeg';
+import Game from './tic-tac/tic-tac'
 import './App.css';
 
 class App extends Component {
@@ -22,6 +23,7 @@ class App extends Component {
           >
             v1
           </a>
+          <Game/>
         </header>
       </div>
     );
